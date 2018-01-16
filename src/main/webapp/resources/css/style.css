@@ -1,0 +1,46 @@
+html, body {
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: 0px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+	width: 100%;
+	margin-top: 0px;
+	padding: 5px;
+}
+
+#header {
+	width: 100%;
+	background: #3465a4;
+	margin-top: 0px;
+	padding: 15px 0px 15px 15px;
+	border-radius: 5px;
+}
+
+#header_context {
+	color: #FFFFFF;
+}
+
+#map_container {
+	width: 100%;
+	height: 600px;
+	border-style: solid;
+}
+
+#site_footer {
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+}
+
+#context_container {
+	float: left;
+	width: 45%;
+}
+
+#img_container {
+	float: right;
+	width: 45%;
+}
